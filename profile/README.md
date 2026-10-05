@@ -8,7 +8,7 @@
   
   <p align="center">
     <a href="https://velmartech.com.do"><img src="https://img.shields.io/badge/Portal-velmartech.com.do-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white" alt="Portal"></a>
-    <img src="https://img.shields.io/badge/Availability-99.9%25_SLA-10b981?style=flat-square&logo=statuspage&logoColor=white" alt="SLA">
+    <img src="https://img.shields.io/badge/Availability-99.5%25_SLA-10b981?style=flat-square&logo=statuspage&logoColor=white" alt="SLA">
     <img src="https://img.shields.io/badge/Security-Zero_Trust_Architecture-f97316?style=flat-square&logo=auth0&logoColor=white" alt="Zero Trust">
     <img src="https://img.shields.io/badge/HQ-Santo_Domingo%2C_DO-3b82f6?style=flat-square&logo=google-maps&logoColor=white" alt="HQ">
   </p>
